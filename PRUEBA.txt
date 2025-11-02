@@ -1,0 +1,4 @@
+N°|Color|Type1|Type2|Result
+1|YELLOW|A|B|+
+2|RED|A|C|+
+3|BLUE|B|C|-
